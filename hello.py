@@ -8,3 +8,5 @@ for name in names:
 
 if  5 > 4: 
     print (5)   
+
+print(f"I focus on the new prints")
